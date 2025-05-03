@@ -23,10 +23,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 
@@ -47,7 +45,7 @@
 
 [<img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white" />](https://[website-của-bạn])
 [<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1DRcahNqPf/?mibextid=wwXIfr)
-[<img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@[username])
-[<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />](https://youtube.com/@[username])
-[<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />](https://instagram.com/[username])
-[<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:[email-của-bạn])
+[<img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@trungkien_0206?_t=ZS-8w3QNfNTzOc&_r=1)
+[<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />](https://youtube.com/@kienletrung3253?si=qFNjznac53FOJ80H)
+[<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />](https://www.instagram.com/letrung020605?igsh=MWFqOWVwcnlxdWc1bw%3D%3D&utm_source=qr)
+[<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:letrungkien020605@gmail.com)
