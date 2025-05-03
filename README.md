@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/earth-background.jpg"
      width="500"
      alt="Earth Background"
-     style="float: right;">
+     style="float: right;"
+     margin-left="200">
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
