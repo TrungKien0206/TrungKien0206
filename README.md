@@ -32,13 +32,13 @@
 
 ## 📱 My Current Project: MoneyTrackerAi
 ### ✨ Tính năng nổi bật:
-- Theo dõi chi tiêu, thu nhập, nợ/lãi 💰
+- Theo dõi chi tiêu, thu nhập 💰
 - Phân tích tài chính thông minh bằng AI 🤖
 - Giao diện thân thiện, dễ sử dụng 📱
 - Hỗ trợ đa ngôn ngữ 🌍
 - Cập nhật và quản lý danh mục chi tiêu, thu nhập 🏷️
 
-👉 [Xem Repository Dự Án Tại Đây]([https://github.com/TrungKien0206/moneytrackerai-app])
+👉 [Xem Repository Dự Án Tại Đây](https://github.com/TrungKien0206/moneytrackerai-app)
 
 
 
