@@ -21,7 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 
-## 📱 My Current Project: MoneyTrackerAi
+## 📱 My team's current project: MoneyTrackerAi
 
 ### ✨ Tính năng nổi bật:
 
