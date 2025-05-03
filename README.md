@@ -1,6 +1,6 @@
 # Hi Aliens! I'm TrungKiendev from the Earth. 🌍
 
-<img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/earth-background.jpg" width="1000" height="500" alt="TrungKiendev" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/traidat.jpg" width="1000" height="500" alt="TrungKiendev" style="display: block; margin-left: auto; margin-right: auto;" />
 
 ## 🚀 Technologies and Tools
 
@@ -33,7 +33,6 @@
 
 👉 [Xem Repository Dự Án Tại Đây](https://github.com/TrungKien0206/moneytrackerai-app)
 
-<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
