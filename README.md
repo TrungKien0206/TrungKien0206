@@ -1,9 +1,8 @@
 # Hi Aliens! I'm TrungKiendev from the Earth. 🌍
 
-  <img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/earth-background.jpg" width="1000" heigh="500" alt="TrungKiendev" />
+<img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/earth-background.jpg" width="1000" height="500" alt="TrungKiendev" style="display: block; margin-left: auto; margin-right: auto;" />
 
-
- ## 🚀 Technologies and Tools
+## 🚀 Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -23,7 +22,9 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 
 ## 📱 My Current Project: MoneyTrackerAi
+
 ### ✨ Tính năng nổi bật:
+
 - Theo dõi chi tiêu, thu nhập 💰
 - Phân tích tài chính thông minh bằng AI 🤖
 - Giao diện thân thiện, dễ sử dụng 📱
@@ -31,19 +32,18 @@
 - Cập nhật và quản lý danh mục chi tiêu, thu nhập 🏷️
 
 👉 [Xem Repository Dự Án Tại Đây](https://github.com/TrungKien0206/moneytrackerai-app)
+
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="TrungKiendev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungKien0206&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="TrungKiendev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TrungKien0206&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
-
 
 ## 🌐 Where to find me
 
