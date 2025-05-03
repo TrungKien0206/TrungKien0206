@@ -1,6 +1,6 @@
 # Hi Aliens! I'm TrungKiendev from the Earth. 🌍
 
-<img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/earth-background.jpg" width="500" alt="Earth Background" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/earth-background.jpg" width="1200" alt="TrungKiendev" />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
