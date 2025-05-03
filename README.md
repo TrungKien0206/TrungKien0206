@@ -1,6 +1,6 @@
 # Hi Aliens! I'm TrungKiendev from the Earth. 🌍
 
-  <img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/earth-background.jpg" width="1000" heigh="500" alt="TrungKiendev" />
+  <img src="https://raw.githubusercontent.com/TrungKien0206/TrungKien0206/main/assets/earthnew.jpg" width="1000" heigh="500" alt="TrungKiendev" />
 
 
  ## 🚀 Technologies and Tools
