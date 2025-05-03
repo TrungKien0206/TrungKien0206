@@ -30,6 +30,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 
+## 📱 My Current Project: MoneyTrackerAi
+### ✨ Tính năng nổi bật:
+- Theo dõi chi tiêu, thu nhập, nợ/lãi 💰
+- Phân tích tài chính thông minh bằng AI 🤖
+- Giao diện thân thiện, dễ sử dụng 📱
+- Hỗ trợ đa ngôn ngữ 🌍
+- Cập nhật và quản lý danh mục chi tiêu, thu nhập 🏷️
+
+👉 [Xem Repository Dự Án Tại Đây]([https://github.com/TrungKien0206/moneytrackerai-app])
+
+
+
 
 ## 🌐 Where to find me
 
